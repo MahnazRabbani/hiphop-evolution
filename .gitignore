@@ -1,3 +1,4 @@
 venv/
 *.pyc
 __pycache__/
+hiphop_lyrics_analysis/.env
