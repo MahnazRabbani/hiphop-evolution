@@ -1,4 +1,30 @@
-venv/
-*.pyc
+# Python
 __pycache__/
-hiphop_lyrics_analysis/.env
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# Logs and Database
+*.log
+*.csv
+*.sqlite3
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test_hiphop_eras_songs.csv
