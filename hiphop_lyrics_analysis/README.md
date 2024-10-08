@@ -4,7 +4,7 @@
 This project is a part of a **HipHop Evolution** analysis, focusing on gathering and analyzing lyrics from hip-hop songs across different eras. It uses the Genius API to retrieve song lyrics and updates them into a CSV file containing song metadata.
 
 ## Project Structure
-
+```
 ├── hiphop_lyrics_analysis
 │   ├── README.md
 │   ├── data
@@ -22,6 +22,7 @@ This project is a part of a **HipHop Evolution** analysis, focusing on gathering
 │       └── test_lyrics_script.py
 ├── requirements.txt
 └── venv
+```
 
 
 ### Directories and Files
@@ -144,4 +145,3 @@ pip install -r requirements.txt
 
 - Lyrics data powered by [Genius API](https://genius.com/).
 - Python libraries such as `requests`, `BeautifulSoup`, and `pandas` used for data retrieval and processing.
-```
