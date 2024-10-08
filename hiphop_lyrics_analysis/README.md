@@ -1,14 +1,10 @@
-# hiphop-evolution
 
-
-```markdown
 # HipHop Lyrics Analysis
 
-This project is focusing on gathering and analyzing lyrics from hip-hop songs across different eras. 
+This project is a part of a **HipHop Evolution** analysis, focusing on gathering and analyzing lyrics from hip-hop songs across different eras. It uses the Genius API to retrieve song lyrics and updates them into a CSV file containing song metadata.
 
 ## Project Structure
 
-```
 ├── hiphop_lyrics_analysis
 │   ├── README.md
 │   ├── data
@@ -26,7 +22,7 @@ This project is focusing on gathering and analyzing lyrics from hip-hop songs ac
 │       └── test_lyrics_script.py
 ├── requirements.txt
 └── venv
-```
+
 
 ### Directories and Files
 
